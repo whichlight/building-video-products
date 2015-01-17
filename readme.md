@@ -1,5 +1,4 @@
-Talk about desigining Embedly Cards
-http://embed.ly/cards
+Talk about Embedly's video products
 
-Initially given at Hacks/Hackers
-http://www.meetup.com/hackshackersboston/events/169392152/
+For Hacking Journalism Jan 17-18
+
