@@ -1,0 +1,9 @@
+facebook embedding (api for that)
+
+video analytics from upworthy
+
+scroll play from facebook
+
+player API to programatically control videos
+
+harper analytics
